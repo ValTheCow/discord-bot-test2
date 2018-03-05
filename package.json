@@ -1,0 +1,8 @@
+{
+ "name": "Nova-Bot",
+ "version": "1.0.0"
+ "description": "test",
+ "main": "bot.js",
+ "author": "valthecow",
+ "dependencies": {}
+}
